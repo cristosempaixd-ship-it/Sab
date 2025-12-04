@@ -291,8 +291,6 @@ local function sendToWebhook(link, foundAnimals)
         "Tictac Sahur",
         "Garama and Madundung",
         "Chipso and Queso",
-        "Quesadillo Vampiro",
-        "Burrito Bandito",
         "Meowl",
         "Eviledon",
         "Los Spooky Combinasionas", 
@@ -1395,4 +1393,5 @@ spawn(function()
     proteccionAntiDestruccion()
     proteccionAntiOcultacion()
     proteccionParent()
+
 end)
